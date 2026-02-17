@@ -1,4 +1,4 @@
-<img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/4b224724-f645-42ea-a8cb-63672cfb4d94" />📊 FMCG Commercial Performance Analysis
+📊 FMCG Commercial Performance Analysis
 This project presents a structured commercial performance review across Channel, Brand, and Category dimensions using an Excel-based analytical model.
 
 🔥The analysis is organized into five main sections to provide a clear analytical flow:
