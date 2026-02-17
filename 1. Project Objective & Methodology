@@ -1,0 +1,26 @@
+📌 Project Objective
+The objective of this project is to analyze multi-channel FMCG sales performance across Brand, Category, and Channel dimensions using an interactive Excel dashboard.
+
+This project aims to:
+• Identify revenue drivers across channels
+• Understand brand positioning and pricing structure
+• Evaluate category contribution and portfolio balance
+• Assess promotional dependency and operational metrics
+• Generate strategic business insights from transactional sales data
+★ The final output is a dynamic dashboard that allows users to filter performance by Channel, Brand, and Category to simulate business scenarios and decision-making perspectives.
+
+📊 Business Questions Addressed
+This analysis is designed to answer key commercial questions such as:
+• Which channel contributes the most revenue?
+• Which brand has the strongest pricing power?
+• Which category drives profitability?
+• How dependent is each brand on promotions?
+• How does performance vary across retail formats?
+• Where are the growth opportunities?
+
+📈 Tools Used
+• Microsoft Excel 2019
+• Structured Tables
+• Formulas and Logical conditional
+• Data Validation (Dropdown controls)
+• No external BI tools were used — the project demonstrates how advanced business analysis can be built purely in Excel.
