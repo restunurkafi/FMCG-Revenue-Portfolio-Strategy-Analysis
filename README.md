@@ -2,6 +2,7 @@
 This project presents a structured commercial performance review across Channel, Brand, and Category dimensions using an Excel-based analytical model.
 
 🔥The analysis is organized into five main sections to provide a clear analytical flow:
+
 🎯 Project Objective & Methodology
 Explains the commercial questions addressed, analytical framework applied, and overall business context of the project.
 
