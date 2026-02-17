@@ -1,0 +1,26 @@
+💡 Data Source
+• The project uses raw transactional sales data provided in CSV format from a Kaggle open-source dataset.
+• The dataset is used to simulate commercial performance analysis across multiple business dimensions and retail formats.
+
+📥 Data Import
+The data was imported into Microsoft Excel using:
+★ Data → Get Data → From Text/CSV
+• This method ensures the dataset can be refreshed if the source file is updated.
+
+⚙️ Data Transformation
+★ Data cleaning and preparation were performed using Power Query before loading into Excel.
+The following steps were applied:
+• Selected only relevant analytical columns
+• Removed unnecessary fields
+• Standardized column names
+• Validated and corrected data types (numeric and text fields)
+• Ensured the dataset was aggregation-ready
+• After transformation, the cleaned dataset was loaded into Excel as a structured table named SalesData.
+
+📊 Data Modeling Preparation
+Once loaded into Excel:
+• The dataset was formatted as a structured table
+• Dynamic calculations were built using SUMIFS
+• Multi-criteria filtering was implemented
+• Optional dropdown filters were enabled using wildcard logic ("*")
+• This preparation ensures the dashboard is scalable, transparent, and easy to update.
